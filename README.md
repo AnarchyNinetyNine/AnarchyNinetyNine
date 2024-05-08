@@ -10,7 +10,7 @@ I am a passionate M.Tech CS student at Holberton School, driven by a curiosity f
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,javascript,php,flast,bash,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,javascript,php,flask,bash,html,css,bootstrap,p5,nodejs,figma,tensorflow)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
