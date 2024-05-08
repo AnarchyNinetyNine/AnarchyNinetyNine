@@ -12,7 +12,7 @@ I am a passionate M.Tech CS student at Holberton School, driven by a curiosity f
 
 
 ## Tech Stack
-p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,python,java,javascript,php,flask,bash,html,css,bootstrap,p5js,nodejs,figma,tensorflow,linux,ubuntu,git,vim" />
   </a>
