@@ -5,7 +5,9 @@ I am a passionate M.Tech CS student at Holberton School, driven by a curiosity f
 ![AnarchyNinetyNine's Stats](https://github-readme-stats.vercel.app/api?username=anarchyninetynine&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
-
+- Software engineer intern at [Alx Africa][https://www.alxafrica.com/]
+- Software engineering student at [Holberton School][https://www.holbertonschool.com/]
+- Bachelors degree student in Health science at [UoPeople][https://www.uopeople.edu/] 
 
 
 
