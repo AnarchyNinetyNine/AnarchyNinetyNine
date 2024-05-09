@@ -39,3 +39,4 @@ I am a passionate M.Tech CS student at Holberton School, driven by a curiosity f
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
+<a href="https://app.daily.dev/idris_elgarrab"><img src="https://api.daily.dev/devcards/v2/PB3VlaaRGqb1NzmrUkYlo.png?type=default&r=vqz" width="356" alt="Idris's Dev Card"/></a>
