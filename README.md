@@ -2,6 +2,9 @@
 
 I am a passionate B.Tech CS student at Holberton School, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
+![Idris' GitHub stats](https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=codeSTACKr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anarchyninetynine&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="(https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=codeSTACKr" />
 </a>
