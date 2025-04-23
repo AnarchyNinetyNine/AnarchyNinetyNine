@@ -5,13 +5,6 @@ I am a passionate B.Tech CS student at Holberton School, driven by a curiosity f
 ![Idris' GitHub stats](https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=codeSTACKr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anarchyninetynine&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="(https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=codeSTACKr" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=anarchyninetynine&layout=pie)" />
-</a>
-
 ## 🚀 About Me
 - Software engineer intern at [Alx Africa](https://www.alxafrica.com/)
 - Software engineering student at [Holberton School](https://www.holbertonschool.com/)
