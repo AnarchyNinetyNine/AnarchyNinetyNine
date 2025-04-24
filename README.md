@@ -13,7 +13,6 @@ I am a passionate B.Tech CS student at Holberton School, driven by a curiosity f
     srcset="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=catppuccin_latte"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true" />
 </picture>
 
 ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
