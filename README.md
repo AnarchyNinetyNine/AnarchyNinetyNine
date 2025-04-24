@@ -4,9 +4,10 @@ I am a passionate B.Tech CS student at Holberton School, driven by a curiosity f
 
 
 
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
+  <!-- GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source 
         srcset="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=codeSTACKr" 
@@ -18,7 +19,8 @@ I am a passionate B.Tech CS student at Holberton School, driven by a curiosity f
     </picture>
   </a>
 
-  <a href="https://github.com/anuraghazra/convoychat" style="display: inline-block;">
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/convoychat">
     <picture>
       <source 
         srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anarchyninetynine&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr" 
@@ -31,6 +33,7 @@ I am a passionate B.Tech CS student at Holberton School, driven by a curiosity f
   </a>
 
 </div>
+
 
 
 
