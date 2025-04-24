@@ -4,16 +4,9 @@ I am a passionate B.Tech CS student at Holberton School, driven by a curiosity f
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=codeSTACKr#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anarchyninetynine&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center">
 
-<div>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
     <picture>
       <source 
         srcset="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=codeSTACKr" 
@@ -21,18 +14,24 @@ I am a passionate B.Tech CS student at Holberton School, driven by a curiosity f
       <source 
         srcset="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=catppuccin_latte" 
         media="(prefers-color-scheme: light)" />
-      <img height="200" align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true" />
+      <img height="200" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true" />
     </picture>
   </a>
 
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img 
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=anarchyninetynine&layout=compact&langs_count=8&card_width=320" 
-      alt="Top languages" />
+  <a href="https://github.com/anuraghazra/convoychat" style="display: inline-block;">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anarchyninetynine&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr" 
+        media="(prefers-color-scheme: dark)" />
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anarchyninetynine&layout=compact&langs_count=8&card_width=320&theme=catppuccin_latte" 
+        media="(prefers-color-scheme: light)" />
+      <img height="200" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=anarchyninetynine&layout=compact&langs_count=8&card_width=320" />
+    </picture>
   </a>
 
 </div>
+
 
 
 
