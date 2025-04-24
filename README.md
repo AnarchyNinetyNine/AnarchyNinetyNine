@@ -2,14 +2,10 @@
 
 I am a passionate B.Tech CS student at Holberton School, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-[![Idris' GitHub stats](https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=codeSTACKr#gh-dark-mode-only)]
-[![Idris' GitHub stats](https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=catppuccin_latte#gh-light-mode-only)]
-
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&&include_all_commits=true&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anarchyninetynine&layout=compact)
 ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
 
 ## 🚀 About Me
