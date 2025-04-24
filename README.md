@@ -11,7 +11,7 @@ I am a passionate B.Tech CS student at Holberton School, driven by a curiosity f
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=catppuccin_latte"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true" />
 </picture>
