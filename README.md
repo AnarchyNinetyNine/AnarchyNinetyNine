@@ -4,7 +4,19 @@ I am a passionate B.Tech CS student at Holberton School, driven by a curiosity f
 
 ![Idris' GitHub stats](https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=codeSTACKr#gh-dark-mode-only)
 ![Idris' GitHub stats](https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=catppuccin_latte#gh-light-mode-only)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)]
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=codeSTACKr"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true" />
+</picture>
+
+![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
 
 ## 🚀 About Me
 - Software engineer intern at [Alx Africa](https://www.alxafrica.com/)
