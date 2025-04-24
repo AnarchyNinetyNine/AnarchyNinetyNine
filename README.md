@@ -13,9 +13,27 @@ I am a passionate B.Tech CS student at Holberton School, driven by a curiosity f
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anarchyninetynine&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anarchyninetynine&layout=compact)
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=codeSTACKr" 
+        media="(prefers-color-scheme: dark)" />
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true&theme=catppuccin_latte" 
+        media="(prefers-color-scheme: light)" />
+      <img height="200" align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anarchyninetynine&show_icons=true&include_all_commits=true" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img 
+      height="200" 
+      align="center" 
+      src="https://github-readme-st
+
+
 
 ## 🚀 About Me
 - Software engineer intern at [Alx Africa](https://www.alxafrica.com/)
